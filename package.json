@@ -1,0 +1,21 @@
+{
+  "name": "net-a-brut",
+  "version": "0.0.1",
+  "description": "Intermédiaire avec l'API /formula d'OpenFisca permettant d'obtenir un salaire brut à partir du net",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/laem/net-a-brut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laem/net-a-brut/issues"
+  },
+  "homepage": "https://github.com/laem/net-a-brut#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
